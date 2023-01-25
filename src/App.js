@@ -1,10 +1,13 @@
 import Main from "./Components/Main";
 import './Components/styles.css'
+import {Routes, Route} from 'react-router-dom'
 
 function App() {
   return (
     <>
-        <Main/>
+        <Routes>
+          <Route path="/" element={<Main/>}/>
+        </Routes>
     </>
   );
 }
