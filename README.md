@@ -14,6 +14,4 @@
   Projeto simples onde relembro alguns conceitos de Axios e sobre rotas. Um projeto para voltar aos trilhos e o primeiro de 2023!
 </p>
 
-## 🤖 Deploy: [MarvelAPI]()
-
 <p align="center">👾 Feito por Kaio M. Fonseca 👾</p>
